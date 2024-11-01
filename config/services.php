@@ -34,5 +34,12 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    
 
+];
+return [
+    
+    'telegram' => [
+        'bot_token' => env('7930611389:AAFz0Rlj5oWCs8uQoDPz4TLk3yAKHnEZ-pM'),
+    ],
 ];
